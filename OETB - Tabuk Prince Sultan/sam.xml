@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<scenery name="OETB" locked="false">
+  <datarefs />
+  <objects />
+  <jetwayDescriptions />
+  <jetways>
+    <jetway name="Gate 1" latitude="28.371987297198064" longitude="36.599167947319422" heading="55.564567565917969" height="5.26999998" wheelPos="12.0719995" cabinPos="15.9169998" cabinLength="2.54999995" wheelDiameter="0.699999988" wheelDistance="2" sound="ring1.ogg" minRot1="-20" maxRot1="13.5" minRot2="-88" maxRot2="0" minRot3="-6" maxRot3="5" minExtent="10" maxExtent="19" minWheels="-2.58200002" maxWheels="0.853999972" initialRot1="11.4779997" initialRot2="-71.3040009" initialRot3="-2.3039999" initialExtent="13.8559999" forDoorLocation="LF1" />
+    <jetway name="Gate 3" latitude="28.372726877191951" longitude="36.598267669689875" heading="28.187108993530273" height="5.26999998" wheelPos="12.0719995" cabinPos="15.9169998" cabinLength="2.54999995" wheelDiameter="0.699999988" wheelDistance="2" sound="ring1.ogg" minRot1="10" maxRot1="43" minRot2="-88" maxRot2="-10" minRot3="-6" maxRot3="5" minExtent="9" maxExtent="19" minWheels="-2.58200002" maxWheels="0.853999972" initialRot1="35.6300011" initialRot2="-78.4430008" initialRot3="-3.86999989" initialExtent="18.5450001" forDoorLocation="LF1" />
+  </jetways>
+  <docks>
+    <dock id="Gate 4" latitude="28.373213258942556" longitude="36.597899986733033" elevation="771.75250789429992" heading="220.97430419921875" dockLatitude="28.37332773960523" dockLongitude="36.598017594052806" dockHeading="221.75300598144531" />
+    <dock id="Gate 5" latitude="28.371762703059847" longitude="36.599682906230242" elevation="771.75246335379779" heading="222.07211303710938" dockLatitude="28.37188834707425" dockLongitude="36.599811932772532" dockHeading="221.75277709960938" />
+    <dock id="Gate 6" latitude="28.371396961725946" longitude="36.600143543792825" elevation="771.7531467648223" heading="220.45687866210938" dockLatitude="28.371522149198238" dockLongitude="36.600272463613408" dockHeading="221.75276184082031" />
+    <dock id="Gate 7" latitude="28.37103360271286" longitude="36.600618508744404" elevation="771.75340254418552" heading="222.04969787597656" dockLatitude="28.371149832679514" dockLongitude="36.600737983694025" dockHeading="221.75276184082031" />
+    <dock id="Gate 8" latitude="28.370657846725173" longitude="36.601069087786215" elevation="771.75342851597816" heading="221.24197387695313" dockLatitude="28.370782939315173" dockLongitude="36.601195819811828" dockHeading="221.75262451171875" />
+    <dock id="Gate 9" latitude="28.370287827049236" longitude="36.601523081922608" elevation="771.75316575076431" heading="219.95083618164063" dockLatitude="28.370414183047604" dockLongitude="36.601652962238539" dockHeading="221.75382995605469" />
+  </docks>
+  <gui />
+</scenery>
