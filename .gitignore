@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+/dist/	
+    
+*.blend
+*.blend[1-9]
+*.bak
+*.psd
+
+
+.References/*
+.Objects/geotiffs/*
+_PackageInt/*
